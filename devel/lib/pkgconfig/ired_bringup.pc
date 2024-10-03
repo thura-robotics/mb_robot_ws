@@ -1,0 +1,8 @@
+prefix=/home/thura/mb_robot_ws/devel
+
+Name: ired_bringup
+Description: Description of ired_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

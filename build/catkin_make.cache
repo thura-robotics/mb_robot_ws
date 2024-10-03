@@ -1,0 +1,2 @@
+ired_bringup:ired_msgs:ired_navigation:ired_odom:ired_rviz:ired_teleop:rosserial/rosserial_arduino:rosserial/rosserial_client:rosserial/rosserial_msgs:rosserial/rosserial_python:rplidar_ros:wk2
+-DCATKIN_DEVEL_PREFIX=/home/thura/mb_robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thura/mb_robot_ws/install -G Unix Makefiles
